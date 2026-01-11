@@ -780,9 +780,9 @@ export const STRINGS = {
     'menu.array.delete column': '열 삭제',
     'menu.array.delete columns': '선택한 열 삭제',
 
-    'menu.mode': 'モード',
-    'menu.mode-math': '数式',
-    'menu.mode-text': 'テキスト',
+    'menu.mode': '모드',
+    'menu.mode-math': '수식',
+    'menu.mode-text': '텍스트',
     'menu.mode-latex': 'LaTeX',
 
     'tooltip.blackboard': '칠판',
